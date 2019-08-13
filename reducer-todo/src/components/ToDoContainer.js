@@ -6,7 +6,6 @@ const ToDoContainer = () => {
   return (
     <>
         <TaskInput />
-        <ToDoItem />
     </>
   );
 }
